@@ -1,0 +1,14 @@
+#include "filewriter.h"
+#include <fstream>
+
+FileWriter::FileWriter()
+{
+    std::ifstream wert("txt.txt");
+    
+
+}
+
+void writeOut(std::string)
+{
+        
+}
